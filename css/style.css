@@ -1,0 +1,45 @@
+body {
+    color: rgb(50, 8, 66);
+    background-color: rgb(255, 220, 241);
+    font-family: monospace;
+}
+
+.navbar {
+    background-color: rgb(255, 156, 214);
+}
+
+.circuloras {
+    border-radius: 20px;
+}
+
+.titulos {
+    padding-top: 23px;
+    padding-bottom: 30px;
+}
+
+.circle {
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+footer {
+    font-size: 15px;
+}
+
+#opcoes {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+#absurdos {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+#moleques {
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
